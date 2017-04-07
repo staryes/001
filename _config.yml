@@ -7,21 +7,21 @@ url:              https://nikwu.github.io/001/
 
 # Owner/author information
 owner:
-  name:           Michael Rose
-  avatar:         avatar.jpg
+  name:           Niki
+  avatar:         
   bio:            "Just another boring, tattooed, time traveling designer hailing from Buffalo New York."
   email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        mmistakes
+  twitter:        
   facebook:       
-  github:         mmistakes
+  github:         NikiWu
   stackexchange:  
   linkedin:       
   instagram:        
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +MichaelRoseDesign
+  google_plus:    
 
 # Background image to be tiled on all pages
 background:
@@ -33,7 +33,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    taipei/Taiwan
 future:      true
 highlighter: rouge
 markdown:    kramdown
